@@ -15,6 +15,7 @@ Do not involve Users (Empirical)
 Method: Think Outloud
 
 ##### Cognitive Walkthrough
+Found by Cathleen Wharton
 1. Simulating the process
 2. Ease of Learning
 
@@ -75,3 +76,6 @@ Within subjects (Same users) -> repeated measures on both system
 
 Reliability and Validity should be considered
 
+##### Labs
+Lab in a box (suitcase) are portable
+they pack away neatly into a convenient carrying case.
