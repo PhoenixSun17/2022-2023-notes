@@ -74,7 +74,10 @@ Null hypothesis and Alternative hypothesis
 Between subjects (independent group) -> compare groups performence
 Within subjects (Same users) -> repeated measures on both system
 
-Reliability and Validity should be considered
+Reliability 
+whether can be repelicated
+and Validity 
+should be considered
 
 ##### Labs
 Lab in a box (suitcase) are portable
