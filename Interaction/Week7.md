@@ -136,3 +136,13 @@ Theory building
 1. Be objectives
 2. Dont argue with participant, dont get defensive (participant always right)
 3. Find limitation, dont make inappropriate claims
+
+###### In class 7.b
+1. Yes
+2. Kind of 
+3. Kind of
+4. move with head but not turn with face
+5. Kind of awkward
+6. Yes
+7. yes
+8. No for now
